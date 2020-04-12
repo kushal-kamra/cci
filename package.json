@@ -1,0 +1,19 @@
+{
+  "name": "cci",
+  "version": "1.0.0",
+  "description": "Cracking The Coding Interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushal-kamra/cci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kushal-kamra/cci/issues"
+  },
+  "homepage": "https://github.com/kushal-kamra/cci#readme"
+}
